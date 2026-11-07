@@ -14,6 +14,7 @@ Compilation of resources &amp; docs about a retro-development with the fantasy c
   * [awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
   * [PICO-ATE](https://www.eggnoggames.com/pico-ate): Altruistic Template Encyclopedia for PICO-8
   * [palettes](https://nerdyteachers.com/PICO-8/Guide/PALETTES): [PICO-8 Palette](https://lospec.com/palette-list/pico-8), [PICO-8 Secret Palette Palette](https://lospec.com/palette-list/pico-8-secret-palette)
+  * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1) zine
 * beginner courses
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua)
   * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
@@ -42,6 +43,6 @@ Compilation of resources &amp; docs about a retro-development with the fantasy c
 * cards: [200 Best PICO-8 Games](https://nerdyteachers.com/PICO-8/Games/Top200/) 
 * demoscene: [prodlist on pouet](https://www.pouet.net/prodlist.php?platform%5B0%5D=PICO-8&order=thumbup)
 
-_(last update on 23.09.2026)_
+_(last update on 07.10.2026)_
 
 [*Go to parent page*](README.md)
