@@ -5,7 +5,8 @@ Compilation of resources &amp; docs about a retro-development with the fantasy c
 * [PICO-8](https://www.lexaloffle.com/pico-8.php); see [manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
 * resources
   * cheat sheets: [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246,)
-    [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
+    [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/),
+    [PICO-8 Cheatsheet (A4)](https://ztiromoritz.github.io/pico-8-spick/index_en.html)
   * [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
   * [Pico-8 Binary Save System](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/)
   * lua: [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua),
