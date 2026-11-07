@@ -43,6 +43,6 @@ Compilation of resources &amp; docs about a retro-development with the fantasy c
 * cards: [200 Best PICO-8 Games](https://nerdyteachers.com/PICO-8/Games/Top200/) 
 * demoscene: [prodlist on pouet](https://www.pouet.net/prodlist.php?platform%5B0%5D=PICO-8&order=thumbup)
 
-_(last update on 07.10.2026)_
+_(last update on 07.11.2026)_
 
 [*Go to parent page*](README.md)
